@@ -42,7 +42,7 @@
 		}
 
 		.mybox5{
-		height: 800px;
+		height: 100%;
 		width: 100%;
 		background-image: url('../img/bg.jpg');
 		background-size: cover;	
@@ -67,7 +67,7 @@
 		background-attachment: fixed;
 		}
 		.mybox8{
-		height: 800px;
+		height: 100%;
 		width: 100%;
 		background-image: url('../img/bg.jpg');
 		background-size: cover;	
@@ -167,6 +167,32 @@ li{
   /*background-color: #20B2AA;*/
     margin-top: 5px;
 }
+
+
+/**/
+.col-sm-4{
+    padding-bottom: 1px;
+    padding-top: 1px;
+
+}
+.col-sm-4:hover{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.7); 
+    z-index: 1000;
+}
+
+.card{
+    background-color: lightgrey;
+
+}
+
+
+
+
+
+/**/
+
+
+
 
 .main-timeline{
     font-family: 'Poppins', sans-serif;
@@ -315,27 +341,6 @@ li{
 
 }
 
-/* Making Projects Section Buttons Transparent */
-
- .all_btn,.php_btn,.dotnet_btn,.github_btn{
-  background-color: transparent!important;
- }
-
-/* Hover Effects on Button */
-.github_btn:hover{
-  border-color:  white!important;
- }
-
-
- .all_btn:hover{
-  border-color:  white!important;
- }
- .php_btn:hover{
-  border-color:  white!important;
- }
- .dotnet_btn:hover{
-  border-color:  white!important;
- }
 
 
 
