@@ -364,6 +364,9 @@ li{
 	.mybox3{
 		height: 100%;
 	}
+	.mybox4{
+		height: 100%;
+	}
 
 	.mybox6{
 		height: 100%;
@@ -452,3 +455,41 @@ li{
     .main-timeline .timeline:nth-child(even) .timeline-icon{ left: 15px; }
     .main-timeline .title{ font-size: 18px; }
 }
+
+
+/* FOR SMALL DEVICES BELOW 300px*/
+
+@media screen and (min-width: 250px) and (max-width: 400px) {
+
+	.mybox1  h5{
+		height: 100%;
+		
+		
+	}
+	.mybox2{
+		height: 100%;
+	}
+	.mybox3{
+		height: 100%;
+	}
+	.mybox4{
+		height: 100%;
+	}
+
+	.mybox6{
+		height: 100%;
+
+	}
+
+	.mybox7{
+		height: 100%;
+
+	}
+
+}
+
+
+
+
+/* FOR SMALL DEVICES BELOW 300px*/
+
