@@ -185,7 +185,11 @@ li{
 
 }
 
-
+/* Making hobby card transparent */
+.card.hobby_div {
+    background-color: transparent!important;
+    color: floralwhite;
+}
 
 
 
