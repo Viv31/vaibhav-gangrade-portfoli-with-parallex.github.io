@@ -185,11 +185,18 @@ li{
 
 }
 
+<<<<<<< HEAD
+=======
+/* Making hobby card transparent */
+>>>>>>> dab111577967e37d4f3770872baf69c0c5042f3b
 .card.hobby_div {
     background-color: transparent!important;
     color: floralwhite;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> dab111577967e37d4f3770872baf69c0c5042f3b
 
 
 
@@ -368,7 +375,14 @@ li{
 	.mybox3{
 		height: 100%;
 	}
+<<<<<<< HEAD
 	.mybox4{
+=======
+
+	
+.mybox4{
+
+>>>>>>> dab111577967e37d4f3770872baf69c0c5042f3b
 		height: 100%;
 	}
 
