@@ -158,7 +158,7 @@ li{
 
 #counter_div{
 	margin-top: 100px;
-  text-align: center!important;
+  text-align: center;
 }
 
 
@@ -186,13 +186,11 @@ li{
 
 }
 
-
-/* Making hobby card transparent */
-
 .card.hobby_div {
     background-color: transparent!important;
     color: floralwhite;
 }
+
 
 
 
@@ -364,20 +362,28 @@ li{
 
 	.mybox1{
 		height: 100%;
+    background-size: contain; 
 	}
 	.mybox2{
 		height: 100%;
+    background-size: contain; 
 	}
 	.mybox3{
 		height: 100%;
+    background-size: contain; 
 	}
-
 	.mybox4{
-    height: 100%;
+		height: 100%;
+    background-size: contain; 
 	}
+  .mybox5{
+    height: 100%;
+    background-size: contain; 
+  }
 
 	.mybox6{
 		height: 100%;
+    background-size: contain; 
 
 	}
 
@@ -389,8 +395,8 @@ li{
 
 
   .flip-card{
-    width:270px!important; 
-    padding: 5px!important;
+    width:250px!important; 
+    padding: 10px!important;
   }
 
 /* For making project image content fit  */
@@ -471,33 +477,35 @@ li{
 
 	.mybox1  h5{
 		height: 100%;
+    background-size: contain; 
 		
 		
 	}
 	.mybox2{
 		height: 100%;
+    background-size: contain; 
 
 	}
 	.mybox3{
 		height: 100%;
+    background-size: contain; 
 
 	}
 
 	.mybox4{
 		height: 100%;
+    background-size: contain; 
 	}
-  .mybox5{
-    height: 100%;
-  }
-
 
 	.mybox6{
 		height: 100%;
+    background-size: contain; 
 
 	}
 
 	.mybox7{
 		height: 100%;
+    background-size: contain; 
 
 	}
 
