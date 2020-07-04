@@ -362,28 +362,28 @@ li{
 
 	.mybox1{
 		height: 100%;
-    background-size: contain; 
+    
 	}
 	.mybox2{
 		height: 100%;
-    background-size: contain; 
+    
 	}
 	.mybox3{
 		height: 100%;
-    background-size: contain; 
+     
 	}
 	.mybox4{
 		height: 100%;
-    background-size: contain; 
+    
 	}
   .mybox5{
     height: 100%;
-    background-size: contain; 
+    
   }
 
 	.mybox6{
 		height: 100%;
-    background-size: contain; 
+    
 
 	}
 
@@ -409,7 +409,7 @@ li{
   
 
 .footer{
-  height: 270px;
+  height: 290px;
   margin: auto;
 
 }
@@ -476,37 +476,37 @@ li{
 
 @media screen and (min-width: 250px) and (max-width: 400px) {
 
-	.mybox1  h5{
+	.mybox1{
 		height: 100%;
-    background-size: contain; 
+    
 		
 		
 	}
 	.mybox2{
 		height: 100%;
-    background-size: contain; 
+    
 
 	}
 	.mybox3{
 		height: 100%;
-    background-size: contain; 
+    
 
 	}
 
 	.mybox4{
 		height: 100%;
-    background-size: contain; 
+    
 	}
 
 	.mybox6{
 		height: 100%;
-    background-size: contain; 
+    
 
 	}
 
 	.mybox7{
 		height: 100%;
-    background-size: contain; 
+    
 
 	}
 
