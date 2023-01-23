@@ -22,7 +22,7 @@ html{scroll-behavior:smooth}
 .col-sm-4{padding-bottom:1px;padding-top:1px}
 .col-sm-4:hover{box-shadow:10px 10px 5px 0 rgba(0,0,0,.7);z-index:1000}
 .card{background-color:#d3d3d3}
-.card.hobby_div{background-color:transparent!important;color:#fffaf0}
+.card.hobby_div{background-color:transparent!important;color:#fffaf0;text-align: center;}
 .main-timeline{font-family:Poppins,sans-serif;position:relative}
 .main-timeline:after{content:'';display:block;clear:both}.main-timeline .timeline{width:50%;padding:0 0 0 30px;margin:0 30px 20px 0;float:left;position:relative;z-index:1}
 .main-timeline .timeline-content{color:#333;background-color:#f5f5f5;min-height:150px;padding:30px 80px 30px 30px;box-shadow:0 0 15px rgba(0,0,0,.2);display:block}.main-timeline .timeline-content:after,.main-timeline .timeline-content:before{content:'';background:linear-gradient(to bottom,#2e687c 49%,#3e7b97 50%);height:100%;width:30px;position:absolute;left:0;top:0;z-index:-1}
